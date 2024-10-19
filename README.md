@@ -26,7 +26,7 @@ the DDL and Acceptance Rate of Top AI/CV/NLP/MM Conference
 ## May
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
 | ------------- | :------------- | :----- |
-|NEURLPS | 2024.5.23 | 25.8% in 2024 |
+|NeurlPS | 2024.5.23 | 25.8% in 2024 |
 
 ## June
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
