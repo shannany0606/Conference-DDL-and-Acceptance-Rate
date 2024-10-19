@@ -39,7 +39,7 @@ No DDL! Have fun!
 ## August
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
 | ------------- | :------------- | :----- |
-|AAAI | 2024.8.16 | 23.75% in 2024 |
+|AAAI | 2024.8.16 | 23.8% in 2024 |
 
 ## September
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
