@@ -1,8 +1,6 @@
 # Conference-DDL-and-Acceptance-Rate
 the DDL and Acceptance Rate of Top AI/CV/NLP/MM Conference
 
---
-
 ## January
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance-Rate  |
 | ------------- | :------------- | :----- |
