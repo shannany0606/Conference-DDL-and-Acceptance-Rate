@@ -5,7 +5,7 @@ the DDL and Acceptance Rate of Top AI/CV/NLP/MM Conference
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
 | ------------- | :------------- | :----- |
 |IJCAI | 2024.1.18 | 14.0% in 2024 |
-|ICML | 2025.1.31 | 27.55% in 2024 |
+|ICML | 2025.1.31 | 27.5% in 2024 |
 
 ## Februray
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
@@ -49,7 +49,7 @@ No DDL! Have fun!
 ## October
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
 | ------------- | :------------- | :----- |
-|ICLR | 2024.10.2 | 31% in 2024 |
+|ICLR | 2024.10.2 | 30.8% in 2024 |
 
 ## November
 | Conference        | DDL(in Etc/GMT-8 time)    | Acceptance Rate  |
